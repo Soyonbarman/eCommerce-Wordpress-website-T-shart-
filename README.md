@@ -6,8 +6,8 @@ A custom T-shirt design and print-on-demand e-commerce platform that lets users 
 
 ## 📸 Screenshot
 
-![MyTshirtZone Homepage](![screencapture-mytshirtzone-2025-04-12-18_43_21](https://github.com/user-attachments/assets/8ed90e16-071e-46b8-86a2-9b455bbbc379)
-)
+![screencapture-mytshirtzone-2025-04-12-18_43_21](https://github.com/user-attachments/assets/8ed90e16-071e-46b8-86a2-9b455bbbc379)
+
 
 
 🌐 **Live Website**: [https://mytshirtzone.com](https://mytshirtzone.com)
